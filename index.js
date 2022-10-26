@@ -21,5 +21,5 @@ app.get("/language/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`iphone server`);
+  console.log(`language server`);
 });

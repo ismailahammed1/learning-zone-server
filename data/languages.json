@@ -1,53 +1,118 @@
 [
-    {
-       "id":1,
-       "name":"Python",
-       "price":8000,
-       "description":"Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners. Our Python tutorials will cover all the fundamental concepts of Python. And by the end, you will be comfortable creating projects in Python.",
-       "image":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg"
-    },
-    {
-       "id":2,
-       "name":"Java",
-       "price":7000,
-       "description":"This Java Tutorial has been prepared by well experienced Java Programmers for the Software Engineers to help them understand the basic to advanced concepts of Java Programming Language. After completing this tutorial, you will find yourself at a moderate level of expertise in Java, from where you can take yourself to the next levels.Java is popular high-level, class-based object oriented programming language originally developed by Sun Microsystems and released in 1995. Currently Java is owned by Oracle and more than 3 billion devices run Java. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. Java is used to develop Mobile apps, Web apps, Desktop apps, Games and much more.",
-       "image":"https://smanager.com.br/wp-content/uploads/2021/06/java-smanager-1-scaled.jpg"
-    },
-    {
-        "id":3,
-       "name":"JavaScript",
-       "price":7000,
-       "description":"Our JavaScript Tutorial is designed for beginners and professionals both. JavaScript is used to create client-side dynamic pages.JavaScript is an object-based scripting language which is lightweight and cross-platform.JavaScript is not a compiled language, but it is a translated language. The JavaScript Translator (embedded in the browser) is responsible for translating the JavaScript code for the web browser.In 1993, Mosaic, the first popular web browser, came into existence. In the year 1994, Netscape was founded by Marc Andreessen. He realized that the web needed to become more dynamic. Thus, a 'glue language' was believed to be provided to HTML to make web designing easy for designers and part-time programmers. Consequently, in 1995, the company recruited Brendan Eich intending to implement and embed Scheme programming language to the browser. But, before Brendan could start, the company merged with Sun Microsystems for adding Java into its Navigator so that it could compete with Microsoft over the web technologies and platforms. Now, two languages were there: Java and the scripting language. Further, Netscape decided to give a similar name to the scripting language as Java's. It led to 'Javascript'. Finally, in May 1995, Marc Andreessen coined the first code of Javascript named 'Mocha'. Later, the marketing team replaced the name with 'LiveScript'. But, due to trademark reasons and certain other reasons, in December 1995, the language was finally renamed to 'JavaScript'. From then, JavaScript came into existence.",
-       "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
-    },
-    {
-        "id":4,
-       "name":"C++",
-       "price":6000,
-       "description":"C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.Our C++ programming tutorial will guide you to learn C++ programming one step at a time.C++ was developed by Bjarne Stroustrup at Bell Laboratories over a period starting in 1979. Since C++ is an attempt to add object-oriented features (plus other improvements) to C, earlier it was called as “C with Objects”. As the language developed, Stroustrup named it as C++ in 1983.",
-       "image":"https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png"
-    },
-    {
-        "id":5,
-       "name":"C",
-       "price":5000,
-       "description":"C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs.The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.C programming is considered as the base for other programming languages, that is why it is known as mother language.It can be defined by the following ways: Mother language, System programming language ,Procedure-oriented programming language, Structured programming language ,Mid-level programming language",
-       "image":"https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
-       
-    },
-    {
-        "id":6,
-       "name":"PHP",
-       "price":5500,
-       "description":"PHP tutorial for beginners and professionals provides in-depth knowledge of PHP scripting language. Our PHP tutorial will help you to learn PHP scripting language easily. This PHP tutorial covers all the topics of PHP such as introduction, control statements, functions, array, string, file handling, form handling, regular expression, date and time, object-oriented programming in PHP, math, PHP MySQL, PHP with Ajax, PHP with jQuery and PHP with XML.PHP is an open-source, interpreted, and object-oriented scripting language that can be executed at the server-side. PHP is well suited for web development. Therefore, it is used to develop web applications (an application that executes on the server and generates the dynamic page.).PHP was created by Rasmus Lerdorf in 1994 but appeared in the market in 1995. PHP 7.4.0 is the latest version of PHP, which was released on 28 November.",
-       "image":"http://suckup.de/wp-content/uploads//2012/01/php1.png"
-    },
-    {
-        "id":7,
-       "name":"C#",
-       "price":5000,
-       "description":"C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.",
-       "image":"https://fasttrack.edu.vn/wp-content/uploads/2021/06/C-Sharp-1920x960.jpeg"
-    }
-    
- ]
+
+   {
+   "id":1,
+   "name":"Basic to Advanced Python",
+   "price":8000,
+   "total":500,
+   "logo":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ]
+   },
+   {
+   "id":2,
+   "name":"Basic to Advanced Java",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ],
+   "description":"This Java Tutorial has been prepared by well experienced Java Programmers for the Software Engineers to help them understand the basic to advanced concepts of Java Programming Language. After completing this tutorial, you will find yourself at a moderate level of expertise in Java, from where you can take yourself to the next levels.Java is popular high-level, class-based object oriented programming language originally developed by Sun Microsystems and released in 1995. Currently Java is owned by Oracle and more than 3 billion devices run Java. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. Java is used to develop Mobile apps, Web apps, Desktop apps, Games and much more."
+   
+   },
+   {
+   "id":3,
+   "name":"Basic to Advanced JavaScript",
+   "price":8000,
+   "total":500,
+   "logo":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ],
+   
+   "description":"Our JavaScript Tutorial is designed for beginners and professionals both. JavaScript is used to create client-side dynamic pages.JavaScript is an object-based scripting language which is lightweight and cross-platform.JavaScript is not a compiled language, but it is a translated language. The JavaScript Translator (embedded in the browser) is responsible for translating the JavaScript code for the web browser.In 1993, Mosaic, the first popular web browser, came into existence. In the year 1994, Netscape was founded by Marc Andreessen. "
+   
+   
+   },
+   {
+   "id":4,
+   "name":"Basic to Advanced C++",
+   "price":8000,
+   "total":500,
+   "logo":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ],
+   "description":"C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.Our C++ programming tutorial will guide you to learn C++ programming one step at a time.C++ was developed by Bjarne Stroustrup at Bell Laboratories over a period starting in 1979. Since C++ is an attempt to add object-oriented features (plus other improvements) to C, earlier it was called as “C with Objects”. As the language developed, Stroustrup named it as C++ in 1983."
+   },
+   {
+   "id":5,
+   "name":"Basic to Advanced C",
+   "price":8000,
+   "total":500,
+   "logo":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ],
+   "description":"C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs.The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.C programming is considered as the base for other programming languages, that is why it is known as mother language.It can be defined by the following ways: Mother language, System programming language ,Procedure-oriented programming language, Structured programming language "
+   
+   },
+   {
+   "id":6,
+   "name":"Basic to Advanced PHP",
+   "price":8000,
+   "total":500,
+   "logo":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ],
+   "description":"PHP tutorial for beginners and professionals provides in-depth knowledge of PHP scripting language. Our PHP tutorial will help you to learn PHP scripting language easily. This PHP tutorial covers all the topics of PHP such as introduction, control statements, functions, array, string, file handling, form handling, regular expression, date and time, object-oriented programming in PHP, math, PHP MySQL, PHP with Ajax, PHP with jQuery and PHP with XML.PHP is an open-source, interpreted, and object-oriented scripting language that can be executed at the server-side. PHP is well suited for web development. Therefore, it is used to develop web applications (an application that executes on the server and generates the dynamic page.).PHP was created by Rasmus Lerdorf in 1994 but appeared in the market in 1995. PHP 7.4.0 is the latest version of PHP, which was released on 28 November."
+   },
+   {
+   "id":7,
+   "name":"Basic to Advanced C#",
+   "price":8000,
+   "total":500,
+   "logo":"https://www.papasiddhi.com/wp-content/uploads/2022/02/python-1110x550.jpg",
+   "options": [
+   "500 Lectures",
+   "100 Live Classes",
+   "35 Projects",
+   "Interview & Job Preparation",
+   "Mock Interview",
+   "Exclusive Job Fair"
+   ],
+   "description":"C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language."
+   }
+   
+   ]
+   
